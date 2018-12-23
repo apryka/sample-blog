@@ -42,3 +42,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Config
+
+Config file is located under `src/config`. You can find the following constants there:
+- `apiUrl` - App is fetching data from here,
+- `postsLimit` - limit the posts displayed on HomePage (by default it is set to 10, jsonplaceholder.typicode.com allows to fetch 100 posts),
+- `keenClient` - data responsible for connecting with Keen.io to get results.
+
