@@ -1,0 +1,28 @@
+.list {
+    margin: 0;
+    padding: 1rem;
+    list-style: none;
+    color: #808080;
+}
+
+.list-item {
+    margin-bottom: 1rem;
+}
+
+.list-item-title {
+    color: #808080;
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+.list-item-index {
+    display: block;
+}
+
+.list-item-title:hover {
+    text-decoration: underline;
+}
+
+.loader {
+    margin: 1rem;
+}

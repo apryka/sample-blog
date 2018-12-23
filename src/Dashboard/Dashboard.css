@@ -1,0 +1,14 @@
+.dashboard {
+    margin: 0 1rem;
+}
+.dashboard-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+}
+
+.dashboard-chart {
+    flex: 1;
+    min-height: 30vh;
+    margin: 1rem;
+}

@@ -1,0 +1,14 @@
+.header {
+    margin-bottom: 2rem;
+    background: #f3f3f3;
+}
+
+.header-title {
+    margin: 0;
+    padding: 1rem;
+}
+
+.header-title-link {
+    color: #808080;
+    text-decoration: none;
+}
